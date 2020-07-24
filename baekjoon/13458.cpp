@@ -1,5 +1,5 @@
 /**
- * Title: ½ÃÇè °¨µ¶
+ * Title: ì‹œí—˜ ê°ë…
  * Problem no. 13458
  * Author: Eunjun Jang
  * Link: https://www.acmicpc.net/problem/13458
@@ -13,10 +13,10 @@ using namespace std;
 
 const int LIMIT = 1000000;
 
-int N; // ½ÃÇèÀå °¹¼ö
-int A[LIMIT] = {0}; // ½ÃÇèÀå ¼öÇè»ı ¼ö
-long long B; // ÃÑ°¨µ¶°ü °¨½Ã°¡´É ¼ö
-long long C; // ºÎ°¨µ¶°ü °¨½Ã°¡´É ¼ö
+int N; // ì‹œí—˜ì¥ ê°¯ìˆ˜
+int A[LIMIT] = {0}; // ì‹œí—˜ì¥ ìˆ˜í—˜ìƒ ìˆ˜
+long long B; // ì´ê°ë…ê´€ ê°ì‹œê°€ëŠ¥ ìˆ˜
+long long C; // ë¶€ê°ë…ê´€ ê°ì‹œê°€ëŠ¥ ìˆ˜
 
 long long result = 0;
 
