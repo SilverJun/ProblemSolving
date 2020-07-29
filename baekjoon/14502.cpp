@@ -100,8 +100,8 @@ void DFS(int depth, int j, int i) {
 
 int main()
 {
-    // ios_base::sync_with_stdio(false);
-    // cin.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
 
     cin >> N >> M;
 
