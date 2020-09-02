@@ -1,5 +1,5 @@
 /**
- * Title: 시험 감독
+ * Title: 퇴사
  * Problem no. 14501
  * Author: Eunjun Jang
  * Link: https://www.acmicpc.net/problem/14501

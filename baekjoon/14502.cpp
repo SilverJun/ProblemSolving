@@ -1,8 +1,8 @@
 /**
- * Title: 구슬 탈출 2
- * Problem no. 13460
+ * Title: 연구소
+ * Problem no. 14502
  * Author: Eunjun Jang
- * Link: https://www.acmicpc.net/problem/13460
+ * Link: https://www.acmicpc.net/problem/14502
  */
 
 #include <iostream>
